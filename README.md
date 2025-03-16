@@ -1,8 +1,7 @@
 # Hi there 👋 I'm Harsheel
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsheel12&show_icons=true&locale=en" alt="harsheel12" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsheel12&" alt="harsheel12" />
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harsheel12&theme=dark&border=2196F3&stroke=2196F3&ring=2196F3&currStreakLabel=2196F3&fire=2196F3&sideLabels=2196F3" alt="harsheel12" />
 </div>
 
 ## 🎯 About Me
