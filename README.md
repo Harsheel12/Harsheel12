@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Harsheel
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harsheel12&theme=dark&border=2196F3&stroke=2196F3&ring=2196F3&currStreakLabel=2196F3&fire=2196F3&sideLabels=2196F3" alt="harsheel12" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=harsheel12&theme=dark&border=2196F3&stroke=2196F3&ring=2196F3&currStreakLabel=2196F3&fire=2196F3&sideLabels=2196F3" alt="harsheel12 stats" />
 </div>
 
 ## 🎯 About Me
